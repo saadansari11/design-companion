@@ -1,0 +1,3 @@
+streamlit>=1.44
+google-genai
+pandas
